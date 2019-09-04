@@ -25,6 +25,8 @@ Note `js-base64` itself is stand-alone so its `package.json` has no `dependencie
 
 ```html
 <script src="base64.js"></script>
+<-- or simply include it via CDN -->
+<script src="https://cdn.jsdelivr.net/npm/js-base64@2"></script>
 ```
 
 ### node.js
